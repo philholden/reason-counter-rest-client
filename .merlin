@@ -37,6 +37,7 @@ FLG -w -30 -w -40 -open Client_Tar
 # Currently the we use absolute path instead of relative path for bsppx.exe
 # due to bug in merlin but this will be fixed in future.
 More details on this github issue https://github.com/the-lambda-church/merlin/issues/571
-FLG -ppx /home/vramana/Documents/github/web-starterkit/node_modules/bs-platform/bin/bsppx.exe
+FLG -ppx /Users/ph185068/experimental/reason/reason-web-starterkit/node_modules/bs-platform/bin/bsppx.exe
 
 # User Custom config here
+

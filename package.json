@@ -31,7 +31,7 @@
     "ocamlBetterErrors": "0.0.10",
     "realpath": "*",
     "reason": "https://github.com/facebook/reason.git",
-    "rebel": "github:vramana/rebel-bin#bin-2be022c5697a05c8bd1be9d565224e1bf8fbef8f-linux",
+    "rebel": "github:vramana/rebel-bin#bin-2be022c5697a05c8bd1be9d565224e1bf8fbef8f-osx",
     "webpack": "^2.1.0-beta.25",
     "webpack-dev-middleware": "^1.8.4"
   },
