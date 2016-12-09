@@ -1,7 +1,7 @@
 # reason-counter-rest-client
 
 * Minimal Rest client example in Reason
-* Counter express server with `/inc'` & `/dec` end points.
+* Counter express server with `/inc'` & `/dec` end points
 * Reason binds to fetch, promise, basic DOM manipulation & events to update counter on button click
 
 ---
