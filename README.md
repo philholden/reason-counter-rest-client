@@ -1,6 +1,9 @@
 # reason-counter-rest-client
 
-Minimal Rest client example in Reason
+Minimal Rest client example in Reason. Counter express server has `/inc'` & `/dec` end points.
+Reason bindings to fetch, promise, basic DOM manipulation & events.
+
+---
 
 Based on: [reason-web-starterkit](https://github.com/vramana/reason-web-starterkit)
 
@@ -15,8 +18,3 @@ Note: This **doesn't** use [rebel](https://github.com/reasonml/rebel) directly. 
 3. Run `npm run server` and `npm run rebel` in two different terminals
 4. Open http://localhost:3000
 5. Run `EDITOR=atom npm run editor` to see type errors and tooling in Nuclide (may need atom-reason-loader package)
-
-### TODO
-
-- Hot Module Reloading  
-- Documentation
